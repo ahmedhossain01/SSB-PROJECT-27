@@ -1,0 +1,14 @@
+.toggle{
+	padding: 20px 40px;
+	background-color: red;
+	color: white;
+	cursor: pointer;
+}
+.info{
+	padding: 30px 50px;
+	background-color: green;
+	color: white;
+}
+#draggable { width: 150px; height: 150px; padding: 0.5em; 
+background-color: aqua;
+}
